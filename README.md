@@ -1,5 +1,3 @@
-# Homework6
-
 Login Credentials
 
 Username,Password
