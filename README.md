@@ -1,3 +1,7 @@
+Intructions
+
+-Run MotorPH.jar
+
 Login Credentials
 
 Username,Password
