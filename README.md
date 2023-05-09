@@ -4,15 +4,15 @@
 
 (2) Extract all
 
-(3) Run the MotorPH.jar to open the program
+(3) Use the login credentials below to access user accounts
 
-(4) Use the login credentials below to access user accounts
-
-(5) Make sure to put the Folders "Files" and "Icons" to this path
+(4) Make sure to put the Folders "Files" and "Icons" to this path
 
 "C:\\Users\\clari\\eclipse-workspace\\MotorPH_Homework6(Final)\\src\\(Folder)"
 
 For the program to read the csv files properly
+
+(5) Run the MotorPH.jar to open the program
 
 
 
