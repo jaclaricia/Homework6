@@ -6,11 +6,14 @@
 
 (3) Use the login credentials below to access user accounts
 
-(4) Make sure to put the Folders "Files" and "Icons" to this path (Or create a local path the same as below)
+(4) Make sure to put the Folders "Files" and "Icons" to this path (Or create a local path the same as below) for the program to read the csv files properly.
 
 "C:\\Users\\clari\\eclipse-workspace\\MotorPH_Homework6(Final)\\src\\(Folder)"
 
-For the program to read the csv files properly
+Example:
+
+"C:\\Users\\clari\\eclipse-workspace\\MotorPH_Homework6(Final)\\src\\Files"
+"C:\\Users\\clari\\eclipse-workspace\\MotorPH_Homework6(Final)\\src\\Icons"
 
 (5) Run the MotorPH.jar to open the program
 
