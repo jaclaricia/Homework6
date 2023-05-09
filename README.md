@@ -13,7 +13,7 @@
 
 Username,Password
 
-(1) For admin access: admin,admin
+(1) For Admin access: admin,admin
 
 (2) For Employee 1111 access: Employee,1111
 
