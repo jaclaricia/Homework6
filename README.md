@@ -13,6 +13,7 @@
 Example:
 
 "C:\\Users\\clari\\eclipse-workspace\\MotorPH_Homework6(Final)\\src\\Files"
+
 "C:\\Users\\clari\\eclipse-workspace\\MotorPH_Homework6(Final)\\src\\Icons"
 
 (5) Run the MotorPH.jar to open the program
