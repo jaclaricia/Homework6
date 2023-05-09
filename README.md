@@ -4,7 +4,9 @@
 
 (2) Extract all
 
-(3) Make sure to put the Folders "Files" and "Icons" to this path (Or create a local path the same as below) for the program to read the csv files properly.
+(3) Rename the extracted folder to "MotorPH_Homework6(Final)" (Just copy paste this)
+
+(4) Make sure to put the Folders "Files" and "Icons" to this path (Or create a local path the same as below) for the program to read the csv files properly.
 
 "C:\\Users\\clari\\eclipse-workspace\\MotorPH_Homework6(Final)\\src\\(Folder)"
 
@@ -13,9 +15,9 @@ Example:
 "C:\\Users\\clari\\eclipse-workspace\\MotorPH_Homework6(Final)\\src\\Files"
 "C:\\Users\\clari\\eclipse-workspace\\MotorPH_Homework6(Final)\\src\\Icons"
 
-(4) Run the MotorPH.jar to open the program
+(5) Run the MotorPH.jar to open the program
 
-(5) Use the login credentials below to access user accounts
+(6) Use the login credentials below to access user accounts
 
 
 *Login Credentials
