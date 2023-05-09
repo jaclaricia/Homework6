@@ -8,6 +8,13 @@
 
 (4) Use the login credentials below to access user accounts
 
+(5) Make sure to put the Folders "Files" and "Icons" to this path
+
+"C:\\Users\\clari\\eclipse-workspace\\MotorPH_Homework6(Final)\\src\\(Folder)"
+
+For the program to read the csv files properly
+
+
 
 *Login Credentials
 
